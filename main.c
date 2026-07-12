@@ -5,7 +5,7 @@ void greetWhite() {
 }
 
 int main() {
-    printf("hello\n");
+    printf("hello everyone\n");
     return 0;
 }
 
