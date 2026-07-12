@@ -10,6 +10,8 @@ void greetWhite() {
 
 int main() {
     printf("hello everyone\n");
+    greetWhite();
+    greetBlack();
     return 0;
 }
 
