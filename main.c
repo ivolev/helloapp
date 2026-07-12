@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+void greetBlack() {
+    printf("hello black\n");
+}
+
 void greetWhite() {
     printf("hello white\n");
 }
